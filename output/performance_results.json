@@ -1,0 +1,7 @@
+{
+    "filesProcessed": 205,
+    "baselineSeconds": 5.28,
+    "optimizedSeconds": 1.14,
+    "speedupX": 4.65,
+    "methodUsed": "multiprocessing"
+}
