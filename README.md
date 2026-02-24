@@ -47,3 +47,7 @@ Example output (on a multi-core machine):
     "methodUsed": "multiprocessing"
 }
 ```
+## Github Link
+```bash
+https://github.com/Anand9381/Speed-Runner.git
+```
